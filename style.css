@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+body{ /*TODO: This is where you adjust the background image for the website*/
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /*background-image:url(att/TC_background.png); /*TODO: Find your own background image and replace this --> url(img/your_image_goes_here)*/
+  color: white;
+  color: black;
+}
+
+#download_button{ /*TODO: This is where you adjust the download button */
+  margin: 0px;
+  /*width: 
+  height:*/ 
+}
+
+#my-resume{  /*TODO: This is where you adjust the "My Resume" caption */
+  padding-left: 49px;
+  /* Try adding properties like width: 100px  and see how the chnages affect your HTML. CTRL + S is the key board-shortcut to save the document */
+}
+
+/* TODO: create a .box rule */
+
+/* TODO: Add these properties to the .box rule and play with the values to see how they will affect your HTML Document */
+    /*
+    background-color: #333;
+    color: #fff; 
+    border-right: 5px red solid;
+    border-left: 5px red solid;
+    border-top: 5px red solid;
+    border-bottom: 5px red solid;
+    
+    border: 5px red solid;
+    border-width: 3px;
+    border-bottom-width: 10px;
+    border-top-style: dotted;    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;   
+    margin-top: 20px;*/
+
+
+.footer { /*TODO: This is where you adjust the footer*/
+  position: fixed;
+  left: 0;
+  bottom: 0;  
+  padding-bottom: 10px;
+  width: 100%;
+  height: 3%;
+  background-color: rgb(30, 29, 32, .75); /*TODO: This is where you adjust the footer's background color*/
+  color: white; /*TODO: This is where you adjust the footer text color*/
+  text-align: center;
+}
+
+
